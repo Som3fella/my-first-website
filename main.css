@@ -1,0 +1,30 @@
+h1 {
+  color: #a97b85;
+  background-color: bisque;
+  font-size: 60px;
+}
+
+
+
+img {
+  width: 200px;
+}
+
+h2 {
+  background-color: bisque;
+  padding: 20px;
+  font-size: 45px;
+}
+
+p {
+  padding: 10px;
+  font-size: 30px;
+  color: #a97b85;
+}
+
+h3 {
+  padding: 10px;
+  font-size: 10px;
+  background-color: black;
+  width: 50%;
+}
